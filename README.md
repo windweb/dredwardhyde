@@ -24,10 +24,10 @@ I have **5 years** of working in **fintech** and over 10 years of studying **Jav
 - 🤔 My interests are with **JVM and GC architectures**, **Computer Vision**, **Natural Language Processing**, etc..;
 - 💼 I have a Master's degree in Engineering at [@HSE](https://www.hse.ru/en/);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via komesergey@gmail.com to reach me.
-
-
-
+- 📫 Please email via komesergey@gmail.com to reach me.  
+  
+  
+  
 **Languages and Tools:**  
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
