@@ -6,7 +6,7 @@
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank-Technology](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like OpenJ9 and Hotspot**
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
 
 
 **Talking about Personal Stuffs:**
