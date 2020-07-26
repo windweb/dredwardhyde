@@ -4,7 +4,7 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)  
 
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank-Technology](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
-I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](https://github.com/openjdk/jdk)**
+I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](http://hg.openjdk.java.net/jdk-updates/)**
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
 
