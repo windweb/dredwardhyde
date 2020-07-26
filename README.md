@@ -29,10 +29,11 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
  <br />   
   
 **Languages and Tools:**  
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/dredwardhyde)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde)
