@@ -28,7 +28,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=flat&logo=zeromq&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Oracle](https://img.shields.io/badge/Oracle-red?style=flat&logo=oracle&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
-[![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
+[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elastic&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
