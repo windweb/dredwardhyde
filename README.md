@@ -37,4 +37,4 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Seq2Seq-Chatbot-English)](https://github.com/dredwardhyde/Seq2Seq-Chatbot-English)
 
-![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&theme=radical&show_icons=true&hide_border=true)  
+![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&theme=tokyonight&show_icons=true&hide_border=true)  
