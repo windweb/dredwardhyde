@@ -1,15 +1,7 @@
 ### Hi there I'm Nikita 👋
 
-<a href="https://twitter.com/DrEdwardHyde">
-  <img align="left" alt="Nikita's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://medium.com/@dredwardhyde">
-  <img align="left" alt="Nikita's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-
-<br />  
-<br />  
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DrEdwardHyde)](https://twitter.com/DrEdwardHyde) 
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)  
 
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank-Technology](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like OpenJ9 and Hotspot**
