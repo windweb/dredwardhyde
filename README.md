@@ -31,6 +31,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **Jav
 **Languages and Tools:**  
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
@@ -42,5 +43,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **Jav
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Faces-DCGAN)](https://github.com/dredwardhyde/Faces-DCGAN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=swift-cpp-wrapper-example)](https://github.com/dredwardhyde/swift-cpp-wrapper-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Seq2Seq-Chatbot-English)](https://github.com/dredwardhyde/Seq2Seq-Chatbot-English)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=GRU-Weather-Forecasting)](https://github.com/dredwardhyde/GRU-Weather-Forecasting)
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)
