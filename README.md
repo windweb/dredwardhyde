@@ -11,7 +11,7 @@
 <br />  
 <br />  
 
-I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank](https://www.sberbank.ru/), **JVM** and **Machine Learning/Deep  Learning enthusiast**  
+I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank-Technology](http://sber-tech.com/), **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like OpenJ9 and Hotspot**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -19,7 +19,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a **Team Lead** at [@Sberbank](https://www.sberbank.ru/) working on highload enterprise cloud fintech projects;
+- 👨🏽‍💻 I’m currently a **Team Lead** at [@Sberbank-Technology](https://www.sberbank.ru/) working on highload enterprise cloud fintech projects;
 - 🌱 I’m currently learning **Hostpot JVM architecture** and **Deep learning**; 
 - 🤔 My interests are with **JVM and GC architectures**, **Computer Vision**, **Natural Language Processing**, etc..;
 - 💼 I have a Master's degree in Engineering at [@HSE](https://www.hse.ru/en/);
