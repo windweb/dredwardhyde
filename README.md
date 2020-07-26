@@ -26,7 +26,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **Jav
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via komesergey@gmail.com to reach me.  
   
-  
+ <br />   
   
 **Languages and Tools:**  
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
