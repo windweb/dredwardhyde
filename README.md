@@ -8,7 +8,8 @@
   <img align="left" alt="Nikita's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
-<br />
+<br />  
+<br />  
 
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank](https://www.sberbank.ru/), **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **Java, JVM languages and architectures**
