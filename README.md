@@ -38,7 +38,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde)
 
 
-### 👀 Active Repos
+### 🚀 Active Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Faces-DCGAN)](https://github.com/dredwardhyde/Faces-DCGAN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
