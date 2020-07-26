@@ -42,8 +42,6 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Faces-DCGAN)](https://github.com/dredwardhyde/Faces-DCGAN)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=swift-cpp-wrapper-example)](https://github.com/dredwardhyde/swift-cpp-wrapper-example)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Seq2Seq-Chatbot-English)](https://github.com/dredwardhyde/Seq2Seq-Chatbot-English)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=GRU-Weather-Forecasting)](https://github.com/dredwardhyde/GRU-Weather-Forecasting)
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)
