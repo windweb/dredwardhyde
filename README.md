@@ -14,7 +14,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 - 👨🏽‍💻 I’m currently a **Team Lead** at [@Sberbank-Technology](https://www.sberbank.ru) working on highload enterprise cloud fintech projects;
 - 🌱 I’m currently learning **Hostpot JVM architecture** and **Deep learning**; 
 - 🤔 My interests are with **JVM and GC architectures**, **Computer Vision**, **Natural Language Processing**, etc..;
-- 💼 I have a Master's degree in Engineering at [@HSE](https://www.hse.ru/en/);
+- 💼 I have a Master's degree in Engineering from [@HSE](https://www.hse.ru/en/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via komesergey@gmail.com to reach me.  
   
