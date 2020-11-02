@@ -44,9 +44,8 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 
 
 ### 🚀 Active Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=VGG19-Image-Style-Transfer)](https://github.com/dredwardhyde/VGG19-Image-Style-Transfer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Seq2Seq-Chatbot-English)](https://github.com/dredwardhyde/Seq2Seq-Chatbot-English)
-
-![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)  
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=VGG19-Image-Style-Transfer"/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=Seq2Seq-Chatbot-English"/>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true"/>   
