@@ -50,3 +50,5 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)    
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dredwardhyde.visitor-badge)
