@@ -1,6 +1,6 @@
 ### Hi there I'm Nikita 👋
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DrEdwardHyde)](https://twitter.com/DrEdwardHyde) 
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DeepCapybara)](https://twitter.com/DeepCapybara) 
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)  
 
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank-Technology](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
