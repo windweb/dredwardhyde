@@ -45,7 +45,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 ### 🚀 Active Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=VGG19-Image-Style-Transfer)](https://github.com/dredwardhyde/VGG19-Image-Style-Transfer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=crnn-ctc-loss-pytorch)](https://github.com/dredwardhyde/crnn-ctc-loss-pytorch)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
 
 ![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)    
