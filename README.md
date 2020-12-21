@@ -32,6 +32,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
+[![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=flat&logo=pytorch&&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
