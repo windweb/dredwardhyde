@@ -7,7 +7,6 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
 
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently a **Team Lead** at [@Sberbank](https://www.sberbank.ru) working on highload enterprise cloud fintech projects;
@@ -54,5 +53,3 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredwardhyde&layout=compact&hide=html" alt="dredwardhyde" /></p>    
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true" alt="dredwardhyde" /></p>  
 </p>  
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dredwardhyde.visitor-badge)
