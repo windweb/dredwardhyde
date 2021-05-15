@@ -42,6 +42,8 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/dredwardhyde)](https://github.com/dredwardhyde) 
 
+### Blog
+[![Merve Noyan](https://github-readme-medium.vercel.app/?username=dredwardhyde)](https://medium.com/@dredwardhyde)
 
 ### 🚀 Active Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
@@ -49,6 +51,7 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/audio-recognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
 
-![Nikita's github stats](https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true)    
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredwardhyde&layout=compact&hide=html" alt="dredwardhyde" /></p>    
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true" alt="dredwardhyde" /></p>    
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dredwardhyde.visitor-badge)
