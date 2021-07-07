@@ -46,8 +46,8 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 
 ### 🚀 Active Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/audio-recognition)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=reinforcement-learning)](https://github.com/dredwardhyde/reinforcement-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/speech-recognition-examples)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
 <p>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredwardhyde&layout=compact&hide=html" alt="dredwardhyde" /></p>    
