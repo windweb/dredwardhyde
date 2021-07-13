@@ -47,6 +47,8 @@ I have **5 years** of working in **fintech** and over 10 years of studying **JVM
 ### 🚀 Active Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=jaffa-rpc-library)](https://github.com/dredwardhyde/jaffa-rpc-library)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=reinforcement-learning)](https://github.com/dredwardhyde/reinforcement-learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=gpt-neo-fine-tuning-example)](https://github.com/dredwardhyde/gpt-neo-fine-tuning-example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=iam-crnn-ctc-recognition)](https://github.com/dredwardhyde/iam-crnn-ctc-recognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/speech-recognition-examples)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
 <p>
