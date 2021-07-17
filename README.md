@@ -1,6 +1,7 @@
 ### Hi there I'm Nikita 👋
 
-[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)  
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)
+[![Github Pages](https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/github.svg)](https://dredwardhyde.github.io/)  
 
 I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](http://hg.openjdk.java.net/jdk-updates/)**
