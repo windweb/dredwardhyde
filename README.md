@@ -6,7 +6,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
 
 - 👨🏽‍💻 I’m currently a **Team Lead**, **Software Architect** and **Senior Java Developer** at **large fintech company** working on highload enterprise cloud projects;
-- 🚀 I have **over 5 years of work experience** in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](http://hg.openjdk.java.net/jdk-updates/)**
+- 🚀 I have **over 5 years of work experience** in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](https://github.com/openjdk/jdk)**
 - 🤔 My interests are **JVM and GC architectures**, **Reinforcement Learning**, **Computer Vision**, and **Natural Language Processing**;
 - 💼 I have a Master's degree in Engineering from [@HSE](https://www.hse.ru/en/);
 - 💬 Ask me about anything, I am happy to help;
