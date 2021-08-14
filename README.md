@@ -47,7 +47,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=iam-crnn-ctc-recognition)](https://github.com/dredwardhyde/iam-crnn-ctc-recognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/speech-recognition-examples)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
-<p>
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dredwardhyde&layout=compact&hide=html" alt="dredwardhyde" /></p>    
+<p> 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true" alt="dredwardhyde" /></p>  
 </p>  
