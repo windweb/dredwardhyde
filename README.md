@@ -3,14 +3,14 @@
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)
 [![Github Pages](https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/github.svg)](https://dredwardhyde.github.io/)  
 
-I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at [@Sberbank](https://www.sberbank.ru), also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
+I'm **Team Lead**, **Software Architect** and **Senior Java Developer** at **large fintech company**, also **JVM** and **Machine Learning/Deep  Learning enthusiast**  
 I have **5 years** of working in **fintech** and over 10 years of studying **JVM languages and architectures of various JVMs like [OpenJ9](https://github.com/eclipse/openj9) and [Hotspot](http://hg.openjdk.java.net/jdk-updates/)**
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently a **Team Lead** at [@Sberbank](https://www.sberbank.ru) working on highload enterprise cloud fintech projects;
+- 👨🏽‍💻 I’m currently a **Team Lead** at **large fintech company** working on highload enterprise cloud projects;
 - 🌱 I’m currently learning **Hostpot JVM architecture** and **Deep learning**; 
 - 🤔 My interests are with **JVM and GC architectures**, **Computer Vision**, **Natural Language Processing**, etc..;
 - 💼 I have a Master's degree in Engineering from [@HSE](https://www.hse.ru/en/);
