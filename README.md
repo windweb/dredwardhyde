@@ -1,6 +1,7 @@
 ### Hi there I'm Nikita 👋
 
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@dredwardhyde)
+[![instagram](https://badges.aleen42.com/src/instagram.svg)](https://www.instagram.com/deepschneiderart)
 [![Github Pages](https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/github.svg)](https://dredwardhyde.github.io/)  
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dredwardhyde/dredwardhyde/master/yoda.gif" width="450" />
