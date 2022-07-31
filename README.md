@@ -47,7 +47,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=gpt-neo-fine-tuning-example)](https://github.com/dredwardhyde/gpt-neo-fine-tuning-example)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=iam-crnn-ctc-recognition)](https://github.com/dredwardhyde/iam-crnn-ctc-recognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=speech-recognition-examples)](https://github.com/dredwardhyde/speech-recognition-examples)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=bert-examples)](https://github.com/dredwardhyde/bert-examples)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dredwardhyde&repo=addressbook)](https://github.com/dredwardhyde/addressbook)
 <p> 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dredwardhyde&show_icons=true&hide_border=true" alt="dredwardhyde" /></p>  
 </p>  
